@@ -1,0 +1,10 @@
+[2021-11-01 16:45:14,990 | root | WARNING]: No gender information provided. Calories calculations may be inaccurate.
+[2021-11-01 16:45:14,990 | root | Level 35]: This is a message of a custom log level
+[2021-11-01 16:45:14,990 | root | ERROR]: Operator '+' can't be used with variables of bool type
+[2021-11-01 16:45:14,990 | root | CRITICAL]: Server shutdown unexpectedly: 'EXCEPTION_ACCESS_VIOLATION'
+[2021-11-01 16:45:14,990 | foo | DEBUG]: Player took 120 damage.
+[2021-11-01 16:45:14,990 | foo | INFO]: Server started at 22:00 11/1/2021
+[2021-11-01 16:45:14,990 | foo | WARNING]: No gender information provided. Calories calculations may be inaccurate.
+[2021-11-01 16:45:14,990 | foo | Level 35]: This is a message of a custom log level
+[2021-11-01 16:45:14,990 | foo | ERROR]: Operator '+' can't be used with variables of bool type
+[2021-11-01 16:45:14,990 | foo | CRITICAL]: Server shutdown unexpectedly: 'EXCEPTION_ACCESS_VIOLATION'
